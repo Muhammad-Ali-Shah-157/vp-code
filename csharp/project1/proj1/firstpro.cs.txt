@@ -1,0 +1,21 @@
+using System;
+
+
+namespace ConsoleApplication1
+{
+
+     static class Program
+    {  
+        int a , b;
+   
+        static void Main(string[] args)
+        {
+            Console.WriteLine("hello");
+            Console.WriteLine("muhammad");
+            
+
+
+         
+        }
+    }
+}
