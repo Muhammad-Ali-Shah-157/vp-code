@@ -1,0 +1,20 @@
+namespace typecasting
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            long l = 20;
+            int i = 10;
+            float s = i;
+            double d = i;
+            int f =(int)l;
+            Console.WriteLine(s);
+            Console.WriteLine(d);
+            Console.WriteLine(f);
+           
+            
+
+        }
+    }
+}
