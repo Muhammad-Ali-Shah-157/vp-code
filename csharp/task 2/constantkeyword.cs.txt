@@ -1,0 +1,23 @@
+using System;
+
+
+namespace constantkeyword
+{
+    class Program
+    {
+         const int a = 23;
+        
+        static void Main(string[] args)
+        {
+               
+
+                
+            Console.WriteLine("your  value"+"  "+a);
+           
+            
+            
+
+
+        }
+    }
+}
