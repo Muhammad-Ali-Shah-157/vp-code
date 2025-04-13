@@ -1,0 +1,18 @@
+using System;
+
+
+namespace initilizationanddecleration
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Decleration of variable
+            int a; String b;
+            // Initilization
+            a = 2; b = "ALi";
+            Console.WriteLine(" value  of  a  : "+a);
+            Console.WriteLine(" value  of  b  : " + b);
+        }
+    }
+}
