@@ -1,0 +1,16 @@
+using System;
+
+
+namespace initilizationanddecleration
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Decleration and Initilization of variable on same line
+            int a = 10; String b ="Ahmed";
+            Console.WriteLine(" value  of  a  : "+a);
+            Console.WriteLine(" Your name is  : " + b);
+        }
+    }
+}
